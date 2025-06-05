@@ -58,7 +58,7 @@ e-commerce-system/
 - Before you begin coding, create a project plan and outline the steps you’ll take to implement the API interactions and display product data.
 - Ensure you have thoroughly read through the requirements for the project below before you begin planning it.
 
-## Part 3: Implementation
+# Part 3: Implementation
 
 ## Develop Product Class:
 - Product Base Class (Product.ts):
@@ -102,8 +102,7 @@ e-commerce-system/
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Asim0712/MOD-3-SBA-Clipboaerd-Landing-Page.git)
-- Live Site URL: [Live site URL here](http://127.0.0.1:5500/Mod3/clipboard-landing-page-master/clipboard-landing-page-master/index.html)
+- Solution URL: [Add solution URL here](https://github.com/Asim0712/SBA-E-Commerce-system-Mod6)
 
 ## My process
 
